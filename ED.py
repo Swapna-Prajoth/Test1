@@ -21,5 +21,3 @@ for row in dataset:
 	distance = euclidean_distance(row0, row)
 	print(distance)
 	got the distance
-twice
-once more
