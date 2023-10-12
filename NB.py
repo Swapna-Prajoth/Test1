@@ -9,3 +9,4 @@ def get_neighbors(train, test_row, num_neighbors):
 	for i in range(num_neighbors):
 		neighbors.append(distances[i][0])
 	return neighbors
+	This is the program to get the neighbors for KNN
